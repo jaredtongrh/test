@@ -1,0 +1,9 @@
+git add [file]
+	tells git to start tacking a specific file
+
+git commit -m 'message'
+	commits change into repositorry
+
+git status
+	tells us the status of our working directory
+
