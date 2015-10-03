@@ -18,3 +18,9 @@ git diff
 
 
 FEATURE A
+
+git merge 
+
+git branch [name]
+
+git checkout [branch-name]
