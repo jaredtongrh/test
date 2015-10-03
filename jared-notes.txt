@@ -16,7 +16,6 @@ git log --oneline
 git diff
 	Shows us what has changed between our working directory and staging area
 
-
 FEATURE A
 
 git merge 
@@ -25,5 +24,3 @@ git branch [name]
 
 git checkout [branch-name / commit ID / tag name]
     Companies use tag names like 'Version 1' to indicate major versions their customers are using.
-
-    
