@@ -7,3 +7,8 @@ git commit -m 'message'
 git status
 	tells us the status of our working directory
 
+git log
+	Shows us all the commits made
+
+git log --oneline
+	Show us all the commits in one line
