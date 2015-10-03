@@ -27,3 +27,5 @@ git checkout [branch-name / commit ID / tag name]
 
 
     revert
+
+    [upload this change]
